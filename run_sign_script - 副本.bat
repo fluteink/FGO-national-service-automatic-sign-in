@@ -1,0 +1,3 @@
+@echo off
+echo 正在使用指定Python环境运行签到脚本...
+echo 脚本运行完毕！
